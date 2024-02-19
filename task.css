@@ -250,7 +250,7 @@ header {
   /* z-index: 1; */
 }
 #modal {
-  /* display: none; */
+  display: none;
   position: absolute;
   background-color: rgba(28, 28, 28, 1);
   width: 96%;
